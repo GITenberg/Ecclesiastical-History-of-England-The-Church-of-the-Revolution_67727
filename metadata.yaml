@@ -1,0 +1,29 @@
+_repo: Ecclesiastical-History-of-England-The-Church-of-the-Revolution_67727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoughton, John
+    birthdate: 1807
+    deathdate: 1897
+    gutenberg_agent_id: '41836'
+    url: http://www.gutenberg.org/2009/agents/41836
+    wikipedia: https://en.wikipedia.org/wiki/John_Stoughton
+description: ''
+gutenberg_issued: '2022-03-28'
+identifiers:
+  gutenberg: '67727'
+language: en
+pgterms:marc905: 20150227233856stoughton
+pgterms:marc906: '1874'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Hodder and Stoughton,1874.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ecclesiastical History of England: The Church of the Revolution'
+url: http://www.gutenberg.org/ebooks/67727
