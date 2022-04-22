@@ -1,5 +1,8 @@
 _repo: Ecclesiastical-History-of-England-The-Church-of-the-Revolution_67727
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67727-h/images/cover.jpg
 creator:
   author:
     agent_name: Stoughton, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41836
     wikipedia: https://en.wikipedia.org/wiki/John_Stoughton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67727#Ecclesiastical-History-of-England-The-Church-of-the-Revolution
 gutenberg_issued: '2022-03-28'
 identifiers:
   gutenberg: '67727'
